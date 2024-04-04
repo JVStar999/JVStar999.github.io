@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Links Prefeituras</title>
+    <title>Links Prefeituras - Pregão Net</title>
 </head>
 <body>
     <h1>Links Prefeituras</h1>
