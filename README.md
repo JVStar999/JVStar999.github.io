@@ -3,10 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Links Prefeituras - Pregão Net</title>
+    <title>Links Prefeituras - LicitaApp</title>
 </head>
 <body>
-    <h1>Links Prefeituras - Pregão Net</h1>
+    <h1>Links Prefeituras - LicitaApp</h1>
     <ul>
         <li><a href="https://carandai.licitapp.com.br/" target="_blank">Prefeitura de Carandaí</a></li>
         <li><a href="https://camaradecarandai.licitapp.com.br/" target="_blank">Câmara Municipal de Carandaí</a></li>
