@@ -8,12 +8,12 @@
 <body>
     <h1>Links Prefeituras - LicitaApp</h1>
     <ul>
-        <li><a href="https://carandai.licitapp.com.br/" target="_blank">Prefeitura de Carandaí</a></li>
         <li><a href="https://camaradecarandai.licitapp.com.br/" target="_blank">Câmara Municipal de Carandaí</a></li>
         <li><a href="https://hospitalcarandai.licitapp.com.br/" target="_blank">Hospital Santana de Carandaí</a></li>
+        <li><a href="https://carandai.licitapp.com.br/" target="_blank">Prefeitura de Carandaí</a></li>
         <li><a href="https://casagrande.licitapp.com.br//" target="_blank">Prefeitura de Casa Grande</a></li>
+        <li><a href="https://cristianootoni.licitapp.com.br//" target="_blank">Prefeitura de Cristiano Otoni</a></li>        
         <li><a href="https://queluzito.licitapp.com.br//" target="_blank">Prefeitura de Queluzito</a></li>
-        <li><a href="https://cristianootoni.licitapp.com.br//" target="_blank">Prefeitura de Cristiano Otoni</a></li>
         <!-- Adicione mais itens da lista conforme necessário -->
     </ul>
     <h2>Demais Prefeituras - LicitaApp</h2>
