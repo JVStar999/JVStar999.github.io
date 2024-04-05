@@ -51,13 +51,13 @@
     </ul>
     <h3>Demais Portais</h3>
     <ul>
-        <li><a href="https://app2-compras.cemig.com.br/painel-fornecedor"_blank">Portal de Compras CEMIG</a></li>
-        <li><a href="https://www2.copasa.com.br/PortalComprasPrd/"_blank">Portal de Compras COPASA</a></li>
-        <li><a href="https://app2.ammlicita.org.br/painel-fornecedor"_blank">Portal de Compras AMM</a></li>
-        <li><a href="https://www1.compras.mg.gov.br/n/login?perfil=fornecedor"_blank">Portal de Compras MG</a></li>
-        <li><a href="https://congonhas-cm-scpi.sigmix.net/comprasedital/"_blank">Portal de Compras Câmara Congonhas</a></li>
-        <li><a href="https://www.comprasnet.gov.br/seguro/loginPortal.asp"_blank">Portal de Compras GOV</a></li>
-        <li><a href="https://srelafaiete.educacao.mg.gov.br/licitacoes"_blank">Planilha Escolas</a></li>
+        <li><a href="https://app2-compras.cemig.com.br/painel-fornecedor" target="_blank">Portal de Compras CEMIG</a></li>
+        <li><a href="https://www2.copasa.com.br/PortalComprasPrd/" target="_blank">Portal de Compras COPASA</a></li>
+        <li><a href="https://app2.ammlicita.org.br/painel-fornecedor" target="_blank">Portal de Compras AMM</a></li>
+        <li><a href="https://www1.compras.mg.gov.br/n/login?perfil=fornecedor" target="_blank">Portal de Compras MG</a></li>
+        <li><a href="https://congonhas-cm-scpi.sigmix.net/comprasedital/" target="_blank">Portal de Compras Câmara Congonhas</a></li>
+        <li><a href="https://www.comprasnet.gov.br/seguro/loginPortal.asp" target="_blank">Portal de Compras GOV</a></li>
+        <li><a href="https://srelafaiete.educacao.mg.gov.br/licitacoes" target="_blank">Planilha Escolas</a></li>
         <!-- Adicione mais itens da lista conforme necessário -->
     </ul>
 </body>
