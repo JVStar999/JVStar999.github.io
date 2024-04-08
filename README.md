@@ -39,7 +39,9 @@
         <li><a href="https://luminarias.licitapp.com.br//" target="_blank">Prefeitura de Luminárias</a></li>
         <li><a href="https://madrededeusdeminas.pregaonet.com.br/" target="_blank">Prefeitura de Madre de Deus de Minas</a></li>
         <li><a href="https://moeda.licitapp.com.br//" target="_blank">Prefeitura de Moeda</a></li>
+        <li><a href="[https://moeda.licitapp.com.br//" target="_blank">Prefeitura de Piedade dos Gerais</a></li>
         <li><a href="http://piedadedoriogrande.pregaonet.com.br/" target="_blank">Prefeitura de Piedade do Rio Grande</a></li>
+        <li><a href="[https://saobrasdosuacui.licitapp.com.br//" target="_blank">Prefeitura de Rio Acima</a></li>
         <li><a href="https://saobrasdosuacui.licitapp.com.br//" target="_blank">Prefeitura de São Brás do Suaçuí</a></li>
         <li><a href="http://saotiago.pregaonet.com.br/" target="_blank">Prefeitura de São Tiago</a></li>
         <li><a href="https://saogeraldo.licitapp.com.br//" target="_blank">Prefeitura de São Geraldo</a></li>
@@ -47,6 +49,7 @@
         <li><a href="https://santanadosmontes.licitapp.com.br//" target="_blank">Prefeitura de Santana dos Montes</a></li>
         <li><a href="https://silveirania.licitapp.com.br//" target="_blank">Prefeitura de Silverânia</a></li>
         <li><a href="https://tiradentes.licitapp.com.br//" target="_blank">Prefeitura de Tiradentes</a></li>
+        <li><a href="[https://tiradentes.licitapp.com.br//" target="_blank">Prefeitura de Visconde do Rio Branco</a></li>
         <!-- Adicione mais itens da lista conforme necessário -->
     </ul>
     <h3>Demais Portais</h3>
